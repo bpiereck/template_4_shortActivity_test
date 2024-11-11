@@ -1,4 +1,4 @@
-# template_4_shortActivity (Replace for Course Title)
+# Course Title
 
 ### Course Title
 
